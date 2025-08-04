@@ -18,6 +18,8 @@ I love tinkering and building stuffs, spent most of my life with computers. Nice
 
 I'd love to share with you which is also my goal when I am doing my coding, Let's try to get better and better each day ^^.
 
+[React+NextJS+tailwindCSS](https://info.hachgenn.xyz)
+
 > [!IMPORTANT]
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  - Martin Fowler
 
@@ -34,4 +36,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- 
+Student in HK o/  
+Graduated from Dept. of Electronic and Information Engineering in POLYU 
+-->
+
+<!-- 
+20250804
+👨‍💻Software Engineer, ⛩️おたく☄️, 🇭🇰 
 -->
